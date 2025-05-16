@@ -9,7 +9,7 @@
 9. Add Authorized redirect uri
 10. Type http://localhost:8080/
 11. Click create 
-12. Click on download JSON
+12. Click on download JSON (rename it credentials.json)
 13. Go to OAuth consent screen 
 14. Click on audience 
 15. Add users 
